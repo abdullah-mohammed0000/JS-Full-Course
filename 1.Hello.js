@@ -1,0 +1,7 @@
+console.log('Hello World')
+console.log(25)
+console.log("Hello World")
+console.log('my roll is 105')
+console.log('my roll is '+105)
+console.log(105 + 105)
+console.log('105'+105)
